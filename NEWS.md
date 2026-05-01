@@ -1,3 +1,12 @@
+## simcross 0.8 (2026-05-01)
+
+### Minor changes
+
+- Make default color in plot_crosslines() to be "black" rather than
+  "white". Not sure why "white" was the default, as then they can't be
+  seen in the examples.
+
+
 ## simcross 0.6 (2023-11-29)
 
 ### Minor changes

@@ -1,6 +1,6 @@
-1a161b3634edf5cb9dd998e9a8dd2464 *DESCRIPTION
+9a5aeed2be5aa2c11a047c323abc64ef *DESCRIPTION
 e3226d3e07beb008a16885239c989375 *NAMESPACE
-aab9462e38ee0451f82894aaa41f83a0 *NEWS.md
+a397684b87430e98b8ca6dbeeb9eff38 *NEWS.md
 387e35a624baf0103f1a715f2c199782 *R/AILped-data.R
 7aa0de23efe7eaf9eaf6aa626a67f43b *R/RcppExports.R
 df81df88ee5cd16f87d691a09e73f303 *R/check_pedigree.R
@@ -10,7 +10,7 @@ df81df88ee5cd16f87d691a09e73f303 *R/check_pedigree.R
 6413c8e6f92b932e1eb0ca4176db2a16 *R/get_geno.R
 db42cdcfe1b44b0b31bdbf761c082058 *R/mouseL_cox-data.R
 4cb8eea7f4032a43773d0ef85a1bbede *R/mouseL_mgi-data.R
-a838f665336c2edb249315d02754f78e *R/plot_cross.R
+7853a09962beafc8b748dec12f442da6 *R/plot_cross.R
 9030917dbcf05bb06548fec873d66513 *R/sim_4way_pedigree.R
 01328bc52689f4937762624f313f042d *R/sim_ail_pedigree.R
 1554ce9f71f0c3fa8b43e7fd972a11e9 *R/sim_ail_pedigree_fix_n.R
@@ -25,14 +25,14 @@ a8d1be35227aced54ee45e09668d55aa *R/sim_dof1_pedigree.R
 88cda18798e44946a09c006f90f909dd *R/where_het.R
 c98c96935df8b77ac16a3c9546c3c4e5 *R/zzz.R
 640dcd5939df53da1481cdb8a8ba2551 *README.md
-8faf250d78a120ba4c7ea2186efddd24 *build/partial.rdb
-5adac513fd8bfdd7afdabfb4713b74bc *build/vignette.rds
-9336005e54d8cc8437f6f3714e27625f *data/AILped.RData
-cd2cbadb579b79d96c9728646b505a94 *data/mouseL_cox.RData
-ad07266850ffd57286a65b91477ea022 *data/mouseL_mgi.RData
+533839446f70bde34a1050627ce80586 *build/partial.rdb
+e8ab2537496faa47d9bf923f1ca39b37 *build/vignette.rds
+0000225bc4755afd05abd10e50aeab25 *data/AILped.RData
+e26549c08c8891aae2367cce0c4a64d4 *data/mouseL_cox.RData
+fc2b0f5151177b7acad4e59b21c40edf *data/mouseL_mgi.RData
 412e8f53ad04c97550a240f21b52c8d0 *inst/doc/simcross.R
 6ede441c37991a787457d39c3861e7ad *inst/doc/simcross.Rmd
-b98928c6545679bc7b3487176e91ac48 *inst/doc/simcross.html
+1572679643e59c550720de70b1d6c6ab *inst/doc/simcross.html
 9d94f6978fe00e188ce6563b4198cb1a *inst/scripts/create_AILped_dataset.R
 2472c6da572b5ba301bd5140d91fb432 *inst/scripts/create_mouseL_dataset.R
 cf37fa781680633aa4ab3010c22c9456 *man/AILped.Rd
@@ -47,7 +47,7 @@ abb49b091a6474efa39d3358ee3a729e *man/collapse_do_alleles.Rd
 95e21f4d3a270460a25d4d671fb0d0ec *man/get_geno.Rd
 1b10c2c2eba1a62cc304519f2fc62c0f *man/mouseL_cox.Rd
 50c24aac8c0108377ef5117862dca1df *man/mouseL_mgi.Rd
-2fe743386043f150a7faa787888107ef *man/plot_crosslines.Rd
+f852b7683a2d83c5655dc5a072630316 *man/plot_crosslines.Rd
 25f126f825635f06c34a85e7033466d9 *man/plot_ind.Rd
 999a7555889990ab2dd8351e892de285 *man/sim_4way_pedigree.Rd
 2e414ad05a0e3e2daf313ecad8665c1b *man/sim_ail_pedigree.Rd
