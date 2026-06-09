@@ -1,6 +1,6 @@
 Package: simcross
-Version: 0.8
-Date: 2026-05-01
+Version: 0.10
+Date: 2026-06-08
 Title: Simulate Experimental Crosses
 Description: Simulate and plot general experimental crosses. The focus is on simulating genotypes with an aim towards flexibility rather than speed. Meiosis is simulated following the Stahl model, in which chiasma locations are the superposition of two processes: a proportion p coming from a process exhibiting no interference, and the remainder coming from a process following the chi-square model.
 Author: Karl W Broman [aut, cre] (ORCID:
@@ -19,8 +19,8 @@ LinkingTo: Rcpp
 LazyData: true
 Encoding: UTF-8
 ByteCompile: true
-RoxygenNote: 7.3.3
+Config/roxygen2/version: 8.0.0
 NeedsCompilation: yes
-Packaged: 2026-05-01 13:16:45 UTC; kbroman
+Packaged: 2026-06-09 02:55:46 UTC; kbroman
 Repository: CRAN
-Date/Publication: 2026-05-01 13:30:02 UTC
+Date/Publication: 2026-06-09 03:40:02 UTC

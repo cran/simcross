@@ -1,3 +1,13 @@
+## simcross 0.10 (2026-06-08)
+
+### Minor changes
+
+- Revise `CCcolors()` to match the color palettes in R/qtl2.
+
+- In `plot_crosslines()`, `lwd` is applied to `points()` as well as
+  `arrows()` and `segments()`.
+
+
 ## simcross 0.8 (2026-05-01)
 
 ### Minor changes
